@@ -13,9 +13,9 @@ Project's aim is to develop an app which can real time update to users about fli
 
 ## Videos
 
-![Flight tracker - Web view](https://youtu.be/Ltg_PB5Tk8Q)
+Flight tracker web view - https://youtu.be/Ltg_PB5Tk8Q
 
-![Flight tracker - Mobile view](https://youtu.be/zsOdtwzK3a4)
+Flight tracker mobile view - (https://youtu.be/zsOdtwzK3a4)
 
 ## Tech Stack
 
