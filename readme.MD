@@ -20,6 +20,7 @@ Project's aim is to develop an app which can real time update to users about fli
         virtualenv env
         source env/Scripts/activate
         flask --app app.server --debug run
+Make sure to replace twilio Account SID, auth token, Twilio number and receiver number to able to receive messages.
 
 ## Videos
 
