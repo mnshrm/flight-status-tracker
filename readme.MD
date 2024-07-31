@@ -11,6 +11,16 @@ Repository is divided into 2 directories
 
 Project's aim is to develop an app which can real time update to users about flights, here we simulate an airline, where the admin updates the database, and these updates are reflected to a user throught frontend as well through SMS messages.
 
+## Installation
+        cd client
+        npm i
+        npm run dev
+        cd ../server
+        pip install -r requirements. txt
+        virtualenv env
+        source env/Scripts/activate
+        flask --app app.server --debug run
+
 ## Videos
 
 Flight tracker web view - https://youtu.be/Ltg_PB5Tk8Q
